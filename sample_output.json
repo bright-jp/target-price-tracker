@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://www.target.com/p/sample-product/-/A-12345678",
+    "title": "Sample Product from Target",
+    "brand": "Sample Brand",
+    "initial_price": 59.99,
+    "final_price": 44.99,
+    "currency": "USD",
+    "discount": "25%",
+    "in_stock": true,
+    "rating": 4.5,
+    "reviews_count": 1234,
+    "seller_name": "Target Official Store",
+    "images": [
+      "https://target.com/images/product1.jpg",
+      "https://target.com/images/product2.jpg"
+    ],
+    "description": "This is a sample product listing collected from Target using Bright Data's Web Scraper API.",
+    "timestamp": "2025-01-15T10:30:00Z"
+  }
+]
